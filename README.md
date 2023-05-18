@@ -1,6 +1,6 @@
 # Missionaries-and-cannibals-problem
 
-### Phython
+### Python
 ### The code was written as part of the Introduction to Artificial Intelligence course
 
 ### Problem info
