@@ -32,11 +32,9 @@
                     , if it ture , insert the state to MOVES list ,return moves list
 
    is_valid_state: return boolean value if the given state is valid state.
-
-
-    Data Structure:
-
-    i used stack and priorty queue Data Structure from packman (maman 11)
+   
+   Data Structure:
+   i used custom stack and priorty queue Data Structure
 
 heuristic function:
     num of missionaries and cannibals in left divided by 2.
@@ -61,7 +59,7 @@ GBFS -  using priority queue , the sort by h(x).
 
 ### Screenshots
 
-- out put
+- Output
 <img src="/screenshot/run Screenshot 1.png" alt="main page"/>
 <img src="/screenshot/run Screenshot 2.png" alt="main page"/>
 
